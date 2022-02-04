@@ -6,7 +6,7 @@ The format is based on **[Keep a ChangeLog](https://keepachangelog.com/)** and a
 
 <br />
 
-## 1.0.0-beta (4th February 2021)
+## v1.0.0-beta (4th February 2021)
 
 ### Added
 
