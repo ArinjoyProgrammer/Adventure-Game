@@ -1,6 +1,6 @@
 # ChangeLog
 
-All notable changesto this project will be documented in this file.
+All notable changes to this project will be documented in this file.
 <br /><br/>
 The format is based on **[Keep a ChangeLog](https://keepachangelog.com/)** and adheres to **[Semanting Versioning](https://semver.org/)**.
 
